@@ -1,0 +1,15 @@
+.show-img {
+    width: 300px;
+    object-position: center;
+}
+
+.show-img img {
+    cursor: pointer;
+    object-position: center;
+    object-fit: cover;
+    height: 150px;
+    width: 300px;
+    border: 6px solid white;
+    transition: all 1s ;
+}
+p{margin-bottom: 100px;}

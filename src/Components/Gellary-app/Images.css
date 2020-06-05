@@ -1,0 +1,11 @@
+.wrap {
+  display: flex;
+  justify-content: space-around;
+  flex-basis: 90%;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 250px;
+  height: 230px;
+}
